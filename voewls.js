@@ -59,4 +59,5 @@ function countVowels(str) {
   return count;
 }
 
-console.log(countVowels("hello")); // 2
+console.log(countVowels("hello")); 
+//2
